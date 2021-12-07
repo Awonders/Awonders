@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awonders
+-👋🏽 Hi, I’m @Awonders
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...projects that allow me to challenge, test and expand my skills.
