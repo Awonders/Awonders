@@ -1,7 +1,7 @@
 -👋🏽 Hi, I’m @Awonders
-- 👀 I’m interested in ...Python
+- 👀 I’m interested in ...Python and building my exisiting coding skills (html,css).
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...projects that allow me to challenge, test and expand my skills.
+- 💞️ I’m looking to collaborate on ...projects that allow me to challenge, test and expand my skills and portfolio.
 - 📫 How to reach me ...via linkedin @ Ariel Wonders or reach out via Git.
 
 <!---
